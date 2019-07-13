@@ -24,10 +24,10 @@ pip3 install googletrans
 
 pkg install nano
 
-git clone https://github.com/Emclub/botLineEm
+git clone https://github.com/Games1995126
 
 Nano Tes.py    (Edit MID)
 
-cd botLineEm
+cd 1
 
-PYThon3 Tes.py
+PYThon3 Em3.py
